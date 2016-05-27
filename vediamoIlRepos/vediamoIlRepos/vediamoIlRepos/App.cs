@@ -20,7 +20,7 @@ namespace vediamoIlRepos
                     Children = {
                         new Label {
                             XAlign = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Jessicaaaaaaa!"
+                            Text = "Welcome to Xamarin ehi!"
                         }
                     }
                 }
